@@ -79,8 +79,8 @@ Here are some ideas to get you started: -->
 
 ## Github Stats  
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Jada-Cherie&show_icons=true&theme=vue-dark)
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=Jada-Cherie&show_icons=true&theme=vue-dark)
+![github stats](https://github-readme-stats-kqb3lehhr-jada-cherie.vercel.app/api?username=Jada-Cherie&show_icons=true&theme=vue-dark)
+![top-langs](https://github-readme-stats-kqb3lehhr-jada-cherie.vercel.app/api/top-langs?username=Jada-Cherie&show_icons=true&theme=vue-dark)
 
 
 
@@ -104,4 +104,4 @@ Here are some ideas to get you started: -->
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
